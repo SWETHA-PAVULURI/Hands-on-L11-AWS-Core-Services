@@ -6,9 +6,9 @@ The project analyzes sales performance, product trends, and growth patterns usin
 ---
 
 ## 📁 Repository Structure
-queries/ → contains the 5 Athena SQL scripts.
-results/ → contains the CSV result files.
-screenshots/ → contains screenshots of CloudWatch, IAM Role, and S3 Buckets.
+-queries/ → contains the 5 Athena SQL scripts.
+-results/ → contains the CSV result files.
+-screenshots/ → contains screenshots of CloudWatch, IAM Role, and S3 Buckets.
 
 
 ---
